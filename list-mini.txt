@@ -1,5 +1,6 @@
+--------------------
 bare system: 24 packages
------------
+--------------------
 -rw-r--r-- 1 root root   2159 May 20 13:08 aaa_base-15.1-x86_64-2
 -rw-r--r-- 1 root root   8630 May 20 13:08 aaa_glibc-solibs-2.37-x86_64-2
 -rw-r--r-- 1 root root   5104 May 20 13:08 aaa_libraries-15.1-x86_64-20
