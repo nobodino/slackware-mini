@@ -61,20 +61,18 @@ to edit files: 4 packages
 -rw-r--r-- 1 root root   2606 mai   23  2023 libseccomp-2.5.4-x86_64-1
 -rw-r--r-- 1 root root    961 mai   23  2023 lzlib-1.13-x86_64-1
 ---------------------
-bare-x11 system: 72 packages
+bare-x11 system: 68 packages
 ---------------------
 -rw-r--r-- 1 root root   5891 mai   22 12:36 blackbox-0.77-x86_64-1
 -rw-r--r-- 1 root root   2102 mai   22 14:40 brotli-1.0.9-x86_64-7
 -rw-r--r-- 1 root root   4710 mai   22 12:36 dbus-1.14.6-x86_64-1
 -rw-r--r-- 1 root root   2458 mai   22 18:24 dejavu-fonts-ttf-2.37-noarch-6
--rw-r--r-- 1 root root   5027 mai   20 15:08 findutils-4.9.0-x86_64-1
 -rw-r--r-- 1 root root   1002 mai   22 18:24 font-alias-1.0.5-noarch-1
 -rw-r--r-- 1 root root  15232 mai   22 18:24 font-misc-misc-1.1.3-noarch-1
 -rw-r--r-- 1 root root  11301 mai   22 18:24 fontconfig-2.13.92-x86_64-3
 -rw-r--r-- 1 root root   4603 mai   22 12:36 freetype-2.13.0-x86_64-1
 -rw-r--r-- 1 root root  71897 mai   23 08:00 glibc-zoneinfo-2023c-noarch-1
 -rw-r--r-- 1 root root   1328 mai   22 14:40 graphite2-1.3.14-x86_64-3
--rw-r--r-- 1 root root   5220 mai   20 15:08 grep-3.11-x86_64-1
 -rw-r--r-- 1 root root  12644 mai   22 12:36 harfbuzz-7.3.0-x86_64-1
 -rw-r--r-- 1 root root  34947 mai   22 20:39 kbd-1.15.3-x86_64-6
 -rw-r--r-- 1 root root   1356 mai   22 18:24 libICE-1.1.1-x86_64-1
@@ -117,7 +115,6 @@ bare-x11 system: 72 packages
 -rw-r--r-- 1 root root   3240 mai   22 12:36 nettle-3.9-x86_64-1
 -rw-r--r-- 1 root root    928 mai   22 18:24 pixman-0.42.2-x86_64-1
 -rw-r--r-- 1 root root    809 mai   22 18:24 setxkbmap-1.3.4-x86_64-1
--rw-r--r-- 1 root root    832 mai   22 18:24 twm-1.0.12-x86_64-1
 -rw-r--r-- 1 root root  19925 mai   22 20:41 usb_modeswitch-2.6.1-x86_64-3
 -rw-r--r-- 1 root root    925 mai   22 20:41 usbutils-015-x86_64-1
 -rw-r--r-- 1 root root    914 mai   22 12:36 utempter-1.2.1-x86_64-1
@@ -135,7 +132,6 @@ bare-x11 system: 72 packages
 -rw-r--r-- 1 root root  16698 mai   22 18:24 xkeyboard-config-2.38-noarch-1
 -rw-r--r-- 1 root root   7336 mai   22 18:24 xorg-server-21.1.8-x86_64-1
 -rw-r--r-- 1 root root   2449 mai   22 18:24 xterm-380-x86_64-1
--rw-r--r-- 1 root root   8318 mai   20 15:08 xz-5.4.3-x86_64-1
 ---------------------
 to upgrade/install packages via slackpkg: 10 packages
 ---------------------
@@ -150,7 +146,7 @@ to upgrade/install packages via slackpkg: 10 packages
 -rw-r--r-- 1 root root   1111 mai   23 19:06 which-2.21-x86_64-4
 -rw-r--r-- 1 root root   6738 mai   23 19:06 wget-1.21.3-x86_64-3
 ---------------------
-to access man-pages : 5 packages
+to access man-pages : 4 packages
 ---------------------
 -rw-r--r-- 1 root root  25290 mai   23 19:37 groff-1.22.4-x86_64-4
 -rw-r--r-- 1 root root    897 mai   23 19:37 less-633-x86_64-1
@@ -179,5 +175,4 @@ bare-x11 system with real a browser, netsurf: 18 slackware packages and 2 SBo pa
 -rw-r--r-- 1 root root   1630 mai   23  2023 libXcomposite-0.4.6-x86_64-1
 -rw-r--r-- 1 root root   3241 mai   23  2023 fribidi-1.0.13-x86_64-1
 -rw-r--r-- 1 root root  26916 mai   23  2023 cyrus-sasl-2.1.28-x86_64-3
----------------------
 ---------------------
