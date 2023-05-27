@@ -11,8 +11,8 @@ bare system: 24 packages
 -rw-r--r-- 1 root root   1124 May 20 13:08 etc-15.1-x86_64-3
 -rw-r--r-- 1 root root   4511 May 20 13:08 eudev-3.2.12-x86_64-2
 -rw-r--r-- 1 root root   5220 May 20 13:08 grep-3.11-x86_64-1
--rw-r--r-- 1 root root    995 May 20 13:08 kernel-huge-6.1.29-x86_64-1
--rw-r--r-- 1 root root 339323 May 20 13:08 kernel-modules-6.1.29-x86_64-1
+-rw-r--r-- 1 root root    970 mai 27  2023 kernel-huge-6.1.30-x86_64-1
+-rw-r--r-- 1 root root 339355 mai 27  2023 kernel-modules-6.1.30-x86_64-1
 -rw-r--r-- 1 root root   1504 May 20 13:08 kmod-30-x86_64-2
 -rw-r--r-- 1 root root   2097 May 20 13:08 openssl-solibs-3.1.0-x86_64-1
 -rw-r--r-- 1 root root  15391 May 20 13:08 pam-1.5.3-x86_64-1
@@ -21,7 +21,7 @@ bare system: 24 packages
 -rw-r--r-- 1 root root   4726 May 20 13:08 sed-4.9-x86_64-1
 -rw-r--r-- 1 root root  19785 May 20 13:08 shadow-4.13-x86_64-1
 -rw-r--r-- 1 root root   1734 May 20 13:08 sysvinit-3.07-x86_64-1
--rw-r--r-- 1 root root    960 May 20 13:08 sysvinit-scripts-15.1-noarch-4
+-rw-r--r-- 1 root root    960 mai 27  2023 sysvinit-scripts-15.1-noarch-5
 -rw-r--r-- 1 root root   4722 May 20 13:08 tar-1.34-x86_64-3
 -rw-r--r-- 1 root root  16935 May 20 13:08 util-linux-2.38.1-x86_64-1
 -rw-r--r-- 1 root root   8318 May 20 13:08 xz-5.4.3-x86_64-1
@@ -109,7 +109,7 @@ bare-x11 system: 68 packages
 -rw-r--r-- 1 root root   1156 mai   22 18:24 libxkbfile-1.1.2-x86_64-1
 -rw-r--r-- 1 root root  18825 mai   22 14:41 libxml2-2.9.14-x86_64-1
 -rw-r--r-- 1 root root    935 mai   22 18:24 libxshmfence-1.3.2-x86_64-1
--rw-r--r-- 1 root root   4309 mai   22 18:24 mesa-23.1.0-x86_64-1
+-rw-r--r-- 1 root root   4311 mai   27  2023 mesa-23.1.1-x86_64-1
 -rw-r--r-- 1 root root    972 mai   22 18:24 mkfontscale-1.2.2-x86_64-1
 -rw-r--r-- 1 root root   1170 mai   22 18:24 mtdev-1.1.6-x86_64-3
 -rw-r--r-- 1 root root   3240 mai   22 12:36 nettle-3.9-x86_64-1
@@ -144,7 +144,7 @@ to upgrade/install packages via slackpkg: 10 packages
 -rw-r--r-- 1 root root  64320 mai   23 19:05 ncurses-6.4-x86_64-1
 -rw-r--r-- 1 root root   3769 mai   23 19:06 slackpkg-15.0.10-noarch-2
 -rw-r--r-- 1 root root   1111 mai   23 19:06 which-2.21-x86_64-4
--rw-r--r-- 1 root root   6738 mai   23 19:06 wget-1.21.3-x86_64-3
+-rw-r--r-- 1 root root   6881 mai   27  2023 wget-1.21.4-x86_64-1
 ---------------------
 to access man-pages : 4 packages
 ---------------------
@@ -163,7 +163,7 @@ bare-x11 system with real a browser, netsurf: 18 slackware packages and 2 SBo pa
 -rw-r--r-- 1 root root   1570 mai   23  2023 xf86-input-synaptics-1.9.2-x86_64-1
 -rw-r--r-- 1 root root   3297 mai   23  2023 libwebp-1.3.0-x86_64-1
 -rw-r--r-- 1 root root   1550 mai   23  2023 librsvg-2.56.0-x86_64-1
--rw-r--r-- 1 root root  47053 mai   23  2023 glib2-2.76.2-x86_64-1
+-rw-r--r-- 1 root root  47055 mai   27  2023 glib2-2.76.3-x86_64-1
 -rw-r--r-- 1 root root  14218 mai   23  2023 gdk-pixbuf2-2.42.10-x86_64-1
 -rw-r--r-- 1 root root   5949 mai   23  2023 cairo-1.16.0-x86_64-3
 -rw-r--r-- 1 root root   3599 mai   23  2023 pango-1.50.14-x86_64-1
